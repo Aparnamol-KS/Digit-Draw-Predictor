@@ -1,0 +1,36 @@
+# Python caches and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.proenv/
+
+# Model files
+*.h5
+
+# Logs and temp files
+*.log
+*.tmp
+.DS_Store
+
+# IDE settings
+.vscode/
+*.code-workspace
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Pip and dependency-related
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Requirements-related backups
+*.bak
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
