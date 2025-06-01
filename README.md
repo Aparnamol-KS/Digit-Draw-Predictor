@@ -2,6 +2,7 @@
 # Handwritten Digit Recognition with MNIST and Gradio
 
 DigitGenie is a user-friendly web app that predicts handwritten digits drawn on a canvas in real-time. Built using the MNIST dataset and a Convolutional Neural Network (CNN), this project leverages Gradio for an interactive interface.
+![image](https://github.com/user-attachments/assets/9ae8ad19-822e-4b58-ab7e-0f1430084b6d)
 
 ----
 
